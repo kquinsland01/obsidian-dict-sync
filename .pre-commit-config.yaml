@@ -9,7 +9,7 @@ repos:
   # Assuming nothing wrong, render updated ToC
   # See: https://github.com/thlorenz/doctoc/tags
   - repo: https://github.com/thlorenz/doctoc
-    rev: v2.2.0
+    rev: v2.5.0
     hooks:
       - id: doctoc
         files: readme.md
